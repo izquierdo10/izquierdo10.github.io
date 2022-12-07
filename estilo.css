@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+    text-align-last: center;   
+}
+
+h1#titulo{
+    width: 800px; 
+    margin: auto;  
+    background-image: url(carts/cabecera.jpg);
+    padding: 0 20px 20px 20px; 
+    border: 2px solid #fff;
+    color: #fff; 
+}
+
+input#cont{
+    background-color:#fff; 
+    border-color: red;
+    font-family: Arial;
+}
+
+input#por{
+    background-color:aquamarine;  
+}
+
